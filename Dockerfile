@@ -9,7 +9,7 @@ ENV TARGETS= \
     KEY= \
     SECRET= \
     DELAY=3600 \
-    TTL=1800
+    TTL=3600
 
 ENTRYPOINT /entrypoint.sh
     
